@@ -7,15 +7,16 @@
 
 html{
     font-family: 'Roboto', sans-serif;
+    background-color: #ddd8d8;
 }
 
 .movie-card{
     display: flex;
     align-items: center;
     height: 65vh;
+    margin: 2rem;
     margin-top: 5rem;
-    background: linear-gradient(to right, rgb(87, 83, 83) 150px, rgb(195, 191, 191) 100%),
-    url('../img/Free-Guy-Cast.jpg');
+    background-image: linear-gradient(to right, rgba(43, 43, 43, 0.52)150px, rgba(158, 156, 157, 0.73)100%),url(/img/Free-Guy-Cast.jpg);
     background-size: cover;
 }
 
@@ -39,7 +40,7 @@ html{
 }
 
 .movie-poster{
-    height: 400px;
+    height: 360px;
     border-radius: 5px;
     margin-right: 2rem;
 }
