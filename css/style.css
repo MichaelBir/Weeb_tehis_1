@@ -16,7 +16,7 @@ html{
     height: 65vh;
     margin: 2rem;
     margin-top: 5rem;
-    background-image: linear-gradient(to right, rgba(43, 43, 43, 0.52)150px, rgba(158, 156, 157, 0.73)100%),url(/img/Free-Guy-Cast.jpg);
+    background-image: linear-gradient(to right, rgba(43, 43, 43, 0.52)150px, rgba(158, 156, 157, 0.73)100%),url('../img/Free-Guy-Cast.jpg');
     background-size: cover;
 }
 
